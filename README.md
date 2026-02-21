@@ -8,7 +8,7 @@ Travel Planner AI has evolved into Rutugo — a more powerful, intuitive, and in
 
 🔗 Visit Rutugo: https://rutugo.com
 
-🔗 Live App (Vercel Deployment): https://your-vercel-url.vercel.app
+🔗 Live App (Vercel Deployment): https://ai-travel-planner-jxfq.vercel.app/
 
 🎯 What is Rutugo?
 
