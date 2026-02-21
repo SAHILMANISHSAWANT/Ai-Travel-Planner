@@ -1,47 +1,83 @@
-<p><a target="_blank" href="https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+🌍 Rutugo (Formerly Travel Planner AI)
+<p> <a target="_blank" href="https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY" id="edit-in-eraser-github-link"> <img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"> </a> </p>
+🚀 Travel Planner AI is Now Rutugo ✈️
 
----
+The Journey Continues with a New Name and Enhanced Experience
 
-## 🚀 **Exciting News: Travel Planner AI is now Rutugo!** ✈️
+Travel Planner AI has evolved into Rutugo — a more powerful, intuitive, and intelligent AI-powered travel planning platform.
 
-> **The Journey Continues with a New Name and Enhanced Experience**
+🔗 Visit Rutugo: https://rutugo.com
 
-We're thrilled to announce that **Travel Planner AI** has evolved into **[Rutugo](https://rutugo.com)** - a more powerful, intuitive, and comprehensive travel planning platform! 🌟
+🔗 Live App (Vercel Deployment): https://your-vercel-url.vercel.app
 
-### 🎯 **What's Changed?**
+🎯 What is Rutugo?
 
-- **🎨 Fresh Brand Identity**: Rutugo represents our commitment to smarter, more personalized travel experiences
-- **🗺️ Tailored Itineraries**: AI-powered personalized trip plans crafted specifically for your preferences and travel style
-- **📍 Top Spots Unveiled**: Advanced discovery system for must-see attractions and hidden gems at every destination
-- **🍜 Foodie Hotspots**: Curated local dining recommendations from culinary experts and fellow travelers
-- **👥 Community Plans**: Explore and get inspired by travel plans from a vibrant community of fellow travelers
-- **✉️ Enhanced Collaboration**: Seamless email invite system to plan together with friends, family, and colleagues in real-time
-- **🌍 Comprehensive City & Country Guides**: Expert insights and insider tips for every destination worldwide
-- **🔗 Meta-searched Booking Integration**: Aggregated booking links for flights (Skyscanner), hotels (Kayak), and activities (Viator, GetYourGuide)
-- **🔄 Smart Plan Refinement**: Dynamically adjust travel dates, budget, and stops in seconds with AI-powered optimization
-- **✅ Feasibility Check System**: Advanced validation ensures your travel plans are realistic and achievable before booking
-- **🎯 Multi-Step Plan Creation**: Enhanced 4-step guided process - "Set Your Course" → "Plan Your Comfort Zone" → "Fine-Tune Your Adventure" → "Feasibility Check"
-- **🤖 Enhanced LLM Integration**: Improved AI algorithms for more accurate, contextual, and personalized travel recommendations
-- **📱 Seamless User Experience**: Redesigned interface with improved navigation, responsive design, and intuitive workflows
+Rutugo is a full-stack AI SaaS application that generates personalized travel itineraries using OpenAI.
 
-### 🌍 **Why Rutugo?**
+Example prompt:
 
-The name "Rutugo" embodies the spirit of exploration and discovery - "_Ru_" (journey) + "_tu_" (you) + "_go_" = **Your journey, your way, let's go!**
+“2 days trip to London with budget $1000”
 
-### 🔗 **Experience the Evolution**
+The system intelligently creates:
 
-**[Visit Rutugo.com →](https://rutugo.com)** to explore the next generation of AI-powered travel planning
+Daily itinerary breakdown
 
----
+Attractions & hidden gems
 
-_This repository showcases the original Travel Planner AI codebase and serves as a foundation for the enhanced Rutugo platform._
+Budget planning
 
----
+Food recommendations
 
-# Travel Planner AI - Gateway to Seamless Smart Travel Plan
+Optimal visiting times
 
-Welcome to Travel Planner AI, your ultimate travel companion designed to simplify the process of planning your next adventure.
-Whether you're dreaming of a weekend getaway or a month-long expedition, Travel Planner AI is here to help you meticulously craft your next travel itinerary.
+Feasibility validation
+
+✨ Key Features
+🗺️ Tailored Itineraries
+
+AI-powered personalized trip plans crafted for your preferences.
+
+📍 Top Spots Unveiled
+
+Discover must-see attractions and hidden gems.
+
+🍜 Foodie Hotspots
+
+Curated local dining recommendations.
+
+👥 Community Plans
+
+Explore travel plans shared by other users.
+
+✉️ Email Collaboration
+
+Invite friends and plan together in real-time.
+
+🔄 Smart Plan Refinement
+
+Dynamically adjust:
+
+Budget
+
+Dates
+
+Stops
+
+Preferences
+
+✅ Feasibility Check System
+
+Ensures travel plans are realistic before booking.
+
+🔗 Booking Integration
+
+Meta-search support for:
+
+Flights (Skyscanner)
+
+Hotels (Kayak)
+
+Activities (Viator / GetYourGuide)
 
 ## Overview
 
@@ -50,19 +86,6 @@ By simply providing a prompt such as "2 days trip to London with budget $1000," 
 
 ![image](https://github.com/hardikverma22/travel-planner-ai/assets/26103679/de21a51b-6d95-427c-a00a-b919dd09c56e)
 
-## Demo
-
-Check out the live demo [﻿here](https://travelplannerai.site/).
-
-## Key Functional Features
-
-- **Top Spots Unveiled:** Discover hidden gems and popular attractions effortlessly.
-- **Tailored Itineraries:** Plan your days seamlessly with custom-tailored schedules.
-- **Optimal Timing:** Learn the best time to visit your destinations for an unparalleled experience.
-- **Foodie Hotspots:** Indulge in culinary delights with recommendations from local experts.
-- **Prime Experiences:** Immerse yourself in unforgettable moments curated just for you.
-- **Expense Tracker:** Effectively track your expenses throughout your journey and can revisit later as well.
-- **Email Invite:** Invite your friend and colleagues to your desired plan and collaborate together.
 
 ## Architecture
 
@@ -74,31 +97,46 @@ Check out the live demo [﻿here](https://travelplannerai.site/).
 
 To run the Travel Planner AI, follow these steps:
 
-1. Clone the repository:git clone [﻿https://github.com/hardikverma22/travel-planner-ai](https://github.com/hardikverma22/travel-planner-ai)
-2. Navigate to the project directory:cd travel-planner-ai
+1. Clone the repository:git clone :git clone https://github.com/SAHILMANISHSWAWANT/Ai-Travel-Planner.git
+2. Navigate to the project directory:cd Ai-Travel-Planner
 3. Install the dependencies:npm install
-4. Start the development server:npm run dev
-5. Open your browser and visit [﻿http://localhost:3000](http://localhost:3000/) to see the app in action.
+4. Create environment file:
+Create a .env.local file in the root directory and add:NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+CLERK_SECRET_KEY=your_clerk_secret_key
+CLERK_WEBHOOK_SECRET=your_clerk_webhook_secret
+OPENAI_API_KEY=your_openai_api_key
+NEXT_PUBLIC_CONVEX_URL=your_convex_url
+5.Start Convex (backend):npx convex dev
+6. Start the development server:npm run dev
+7. Open your browser and visit [﻿http://localhost:3000](http://localhost:3000/) to see the app in action.
 
-## Technologies Used
+## Tech Stack
 
-- Travel Planner AI is built using cutting-edge technologies to ensure a seamless user experience.
-- **Next.js 14:** Leveraging the latest advancements in Next.js for efficient web application development.
-- **Tailwind CSS with Shadcn-UI:** Utilizing Tailwind CSS with Shadcn-UI for responsive and visually stunning user interfaces.
-- **Convex Backend Platform:** Powering our backend infrastructure for robust performance and scalability.
-- **OpenAI APIs:** Harnessing the power of OpenAI's APIs for intelligent content generation and natural language processing.
-- **Clerk:** Providing secure authentication solutions to safeguard user accounts and data.
-- **Razorpay:** Facilitating seamless payment processing supporting wide range of payment methods.
-- **Resend:** For sending email invites using my custom domain.
+Next.js 14
 
-## Contributing
+Tailwind CSS + Shadcn UI
 
-Contributions are welcome! If you'd like to contribute to Shoe Forge, please follow these steps:
+Convex (Backend & Database)
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request to the main branch of the original repository.
+Clerk (Authentication)
 
-<!--- Eraser file: https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY --->
+OpenAI API (AI Engine)
+
+Vercel (Deployment)
+## Deployment
+
+This project is deployed using Vercel.
+
+Steps:
+
+Push to GitHub
+
+Import repo in Vercel
+
+Add environment variables
+
+Deploy
+
+## Author
+
+Sahil Sawant
